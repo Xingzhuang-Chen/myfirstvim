@@ -12,6 +12,7 @@
 :Plugin 'VundleVim/Vundle.vim'
 
 :Plugin 'potion'
+:Plugin 'cpp'
 " 退出vundle插件配置
 :call vundle#end()
 :filetype plugin indent on " 必须 加载vim自带和插件相应的语法和文件类型相关脚本
